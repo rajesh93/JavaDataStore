@@ -4,8 +4,8 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'javac DataStore.java',
-                sh 'java DataStore'
+                sh 'javac CharacterRemove.java',
+                sh 'java CharacterRemove'
             }
         }
     }
