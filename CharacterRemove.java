@@ -1,7 +1,7 @@
 public class CharacterRemove {
  
     public static void main(String[] args) {
-        System.out.println("Output for replaceAllChar(): " + replaceAllChar("crunchify.com - Web Development", "e" , ""));
+        System.out.println("Output********* replaceAllChar(): " + replaceAllChar("crunchify.com - Web Development", "e" , ""));
         System.out.println("Output for deleteAllNonDigit(): " + deleteAllNonDigit("#21sadfs23$&%^(!9@!"));
         System.out.println("Output for replaceCharAt(): " + replaceCharAt("eBay Google Paypal", 10, '$'));
         System.out.println("Output for removeChar(): " + removeChar("eBay Google Paypal", 'a'));
