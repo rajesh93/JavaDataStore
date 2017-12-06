@@ -1,5 +1,5 @@
 public class CharacterRemove {
- 
+ //Bahubali ka king o king
     public static void main(String[] args) {
         System.out.println("Output********* replaceAllChar(): " + replaceAllChar("crunchify.com - Web Development", "e" , ""));
         System.out.println("Output for deleteAllNonDigit(): " + deleteAllNonDigit("#21sadfs23$&%^(!9@!"));
